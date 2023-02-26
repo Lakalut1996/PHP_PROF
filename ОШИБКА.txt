@@ -1,0 +1,8 @@
+Package operations: 0 installs, 1 update, 1 removal
+    Failed to download fakerphp/faker from dist: The zip extension and unzip/7z commands are both missing, skipping.
+The php.ini used by your command-line PHP is: C:\PHP8\php.ini
+    Now trying to download from source
+
+In GitDownloader.php line 82:
+
+  git was not found in your PATH, skipping source download  
