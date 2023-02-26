@@ -1,0 +1,13 @@
+{
+    "name": "geekbrains/borsh",
+    "autoload": {
+        "psr-4": {
+            "GeekBrains\\Borsh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Borsh"
+        }
+    ]
+}
